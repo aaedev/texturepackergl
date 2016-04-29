@@ -1,0 +1,73 @@
+Starting Program
+gl_basics.cpp:CheckGLVersionSupport:101 DEBUG OpenGl Version supported 4.5
+Opening file snap.fnt
+Passing font
+Fontfile here is snap.fnt
+Finished to parse font
+Loading Texture snap_0.png
+Texture x is 512, y is 512, components 4
+Finished loading Texture
+window.cpp:WinMain:124 DEBUG Font Loaded Sucessfully
+Starting to parse Sprite Def file: data\yamfegraphics.xml
+Passing Sprite Load
+Starting to Parse XML data\yamfegraphics.xml
+Sprite Def here is data\yamfegraphics.xml
+Finished sprite load
+Finished Parsing XML data\yamfegraphics.xml
+Texture x is 512, y is 512, components 4
+File name data\yamfegraphics.png
+Sheetwidth 512
+Sheetheight 512
+Sprite count 12
+SPRITES:
+
+Sprite name: buttondn.png
+Sprite x:2 y 2
+Sprite width:36 height 36 
+
+Sprite name: buttonup.png
+Sprite x:40 y 2
+Sprite width:36 height 36 
+
+Sprite name: shipani1.png
+Sprite x:78 y 2
+Sprite width:33 height 24 
+
+Sprite name: shipani2.png
+Sprite x:113 y 2
+Sprite width:33 height 24 
+
+Sprite name: shipani3.png
+Sprite x:148 y 2
+Sprite width:33 height 21 
+
+Sprite name: stick1.png
+Sprite x:183 y 2
+Sprite width:82 height 54 
+
+Sprite name: stick2.png
+Sprite x:267 y 2
+Sprite width:82 height 54 
+
+Sprite name: stick3.png
+Sprite x:351 y 2
+Sprite width:82 height 54 
+
+Sprite name: stick4.png
+Sprite x:2 y 58
+Sprite width:82 height 54 
+
+Sprite name: stick5.png
+Sprite x:86 y 58
+Sprite width:82 height 54 
+
+Sprite name: text.png
+Sprite x:2 y 114
+Sprite width:429 height 70 
+
+Sprite name: title.png
+Sprite x:2 y 186
+Sprite width:451 height 85 
+
+BMFont Instance Freed
+Closing log, ending program.

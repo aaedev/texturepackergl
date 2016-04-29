@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:aeb4e2b7a7f348ea0f1fd54d68a5824b:1/1$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="yamfegraphics.png" width="512" height="512">
+    <sprite n="buttondn.png" x="2" y="2" w="36" h="36"/>
+    <sprite n="buttonup.png" x="40" y="2" w="36" h="36"/>
+    <sprite n="shipani1.png" x="78" y="2" w="33" h="24"/>
+    <sprite n="shipani2.png" x="113" y="2" w="33" h="24"/>
+    <sprite n="shipani3.png" x="148" y="2" w="33" h="21"/>
+    <sprite n="stick1.png" x="183" y="2" w="82" h="54"/>
+    <sprite n="stick2.png" x="267" y="2" w="82" h="54"/>
+    <sprite n="stick3.png" x="351" y="2" w="82" h="54"/>
+    <sprite n="stick4.png" x="2" y="58" w="82" h="54"/>
+    <sprite n="stick5.png" x="86" y="58" w="82" h="54"/>
+    <sprite n="text.png" x="2" y="114" w="429" h="70"/>
+    <sprite n="title.png" x="2" y="186" w="451" h="85"/>
+</TextureAtlas>
